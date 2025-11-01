@@ -10,6 +10,16 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  /* solution */
+  display: flex;
+  justify-content: center;
+}
+
+/* solution */
+.plants {
+  display: flex;
+  justify-content: space-between;
+  gap: 52px;
 }
 
 /* do not edit this footer */
